@@ -82,13 +82,13 @@ const subjectData = {
         {title: "lime soda", video: "https://www.youtube.com/embed/NP3a7U34vig?si=pTI72Fqtb2MIXn7F ", notes: "https://drive.google.com/file/d/1HILCK43uBYKMs4Eq40taPt1FvYTNyh7g/view?usp=drivesdk", pdf: "" },
         {title: " hcv gcv", video:"https://www.youtube.com/embed/N3tLcIu5hbE?si=j6aSgBORlhLDDb9T",notes:"https://drive.google.com/file/d/1BeZfFjodnd7ZnkOybOBULLYi8oQkstyQ/view?usp=drivesdk"},
         {title:"difference betn vulcanised and natural rubber",video:"https://www.youtube.com/embed/t8mdOkXSPfc?si=jHLkaBdb0urpWMqq",notes:" https://drive.google.com/file/d/1GqwxchZwHUc5re5R6CItJdUQ2uRx0eZp/view?usp=drivesdk"},
-        {title:"properties of lubricants",video:"https://www.youtube.com/embed/yR4Lk4E6jac?si=U-ukuCRbT5lNQzUA" ,notes: "https://drive.google.com/file/d/15TWNrT-NKmEdEw7qqlFckXQhQKQpa2Ux/view?usp=drivesdk"},
+        {title:"properties of lubricants",video:"https://www.youtube.com/embed/yR4Lk4E6jac?si=U-ukuCRbT5lNQzUA" ,},
         
     ],    "pccc": [
 
-        { title: " common base conf system", video: "https://www.youtube.com/embed/NMD4KECE-7I?si=cZqZo2fg93D4kvzk" , notes: "https://drive.google.com/file/d/16N3OtQPEQStNEeh9CanzoMxPVbnKkRoL/view?usp=drivesdk", pdf: " " },
-        { title: "transistors", video: "https://www.youtube.com/embed/08jcU8rb9SU?si=DOWzAxCQeBQE36ms" , notes: "https://drive.google.com/file/d/16SrpJkLzY2AdT4LZCSFIaTLkSEwb1CCe/view?usp=drivesdk", pdf: "assets/pcc_notes2.pdf" },
-        { title: "ref book", video: "", notes: "https://drive.google.com/drive/u/0/mobile/folders/1wfNTKinBAV6CCxaI5lfSnnRFAYpy0uEl/1nweZ9gZBRqqgPfdPCLJbJPrfuAARV_8e?usp=share_link&sort=13&direction=a", pdf: "assets/pcc_notes2.pdf" }],
+        { title: " common base conf system", video: "https://www.youtube.com/embed/NMD4KECE-7I?si=cZqZo2fg93D4kvzk" , , pdf: " " },
+        { title: "transistors", video: "https://www.youtube.com/embed/08jcU8rb9SU?si=DOWzAxCQeBQE36ms" ,  },
+        { title: "ref book" }],
     "biology": [
         { title: "unit 1 mitosis meosis and all", video: "https://www.youtube.com/embed/N7gxZuIU5r8?si=E0MgAO5U39ps1IPe ", notes:"https://drive.google.com/file/d/1HbxTTYfmdwm-IGWOggVzxJn_qdkNHgXe/view?usp=drivesdk", pdf: "assets/info_notes1.pdf" },
         { title: "biomolecules", video: "https://www.youtube.com/embed/RpSc5bHLURc?si=8wrVYgEQEm-BBee_", notes: "https://drive.google.com/file/d/1HdCKoeQHP91Vc1AY7Sd8o9rSN7DY7g1W/view?usp=drivesdk"},
