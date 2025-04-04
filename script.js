@@ -110,9 +110,9 @@ const subjectData = {
     "pps": [
 
         { title: "basics to operators ", video: "https://www.youtube.com/embed/irqbmMNs2Bo?si=Tk0NQ5pvWjl3pANU", notes: "https://drive.google.com/file/d/15130B66x91qfDxxxbrsBrRnZDd8D1Eq1/view?usp=drivesdk", pdf: " " },
-        { title: "operators to loop", video: "https://www.youtube.com/embed/wYvrBXUfFfw?si=Bv_nxYOZxO4hO5LU", notes: "https://drive.google.com/file/d/152qXAg-3IMxnky6zqu3CZjMsPPQE2h9u/view?usp=drivesdk", pdf: "assets/pcc_notes2.pdf" },
-        { title: "loops to call by value", video: "https://www.youtube.com/embed/6R0jNW6j2NA?si=Dcf0yeJs1t4gQb_Z", notes: "https://drive.google.com/file/d/156b4leWkYWIPfi2kl4ia3cG5pb91iUjA/view?usp=drivesdk", pdf: "assets/pcc_notes2.pdf" },
-        { title: "call by ref to struct", video: "https://www.youtube.com/embed/J464pe6ZTrE?si=2znU4KlwP7qS8KP3", notes: "https://drive.google.com/file/d/156zLP7t2dfC_FuhO3O3-nTzUSVeq83M4/view?usp=drivesdk", pdf: "assets/pcc_notes2.pdf" },
+        { title: "operators to loop", video: "https://www.youtube.com/embed/wYvrBXUfFfw?si=Bv_nxYOZxO4hO5LU", , pdf: "assets/pcc_notes2.pdf" },
+        { title: "loops to call by value", video: "https://www.youtube.com/embed/6R0jNW6j2NA?si=Dcf0yeJs1t4gQb_Z", , pdf: "assets/pcc_notes2.pdf" },
+        { title: "call by ref to struct", video: "https://www.youtube.com/embed/J464pe6ZTrE?si=2znU4KlwP7qS8KP3", , pdf: "assets/pcc_notes2.pdf" },
                 { title: "fabonacci series ", video: "https://www.youtube.com/embed/HjmwAeTaZv0?si=M87ju0gPl7BbDnoV", },
                         { title: "armstrong ", video: "https://www.youtube.com/embed/v5AG8L8XI5c?si=itbflRROme9QytX9"  },
                                 { title: "call by vaalue,reference", video: "https://www.youtube.com/embed/HEiPxjVR8CU?si=jB41DJUXAC5f84FP" },
@@ -120,7 +120,7 @@ const subjectData = {
                                                 { title: "actual formal parameters ", video: "https://www.youtube.com/embed/yTeMHEobXx8?si=8ZIkfAGwHPAI1VIQ" ,},
                                                         { title: "employee problem", video: "https://www.youtube.com/embed/skPcyvMn1sQ?si=GKy1GqMUFTbbRFld" ,},
                                                                 { title: "factorial using recursion ", video: "https://www.youtube.com/embed/H2lBlb_ys9M?si=OrqiNMhq2hmaJxeP" },
-                                                                        { title: "question bank ", video: "", note:""},
+                                                                        { title: "question bank ", video: "", },
                                                                         {title: "palindrome",video:"https://www.youtube.com/embed/WUG2rN0cG9c?si=rC-7FwenV8TMZeic" },
                                                                         
     ],
