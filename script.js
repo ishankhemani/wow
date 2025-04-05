@@ -109,18 +109,18 @@ const subjectData = {
     ],
     "pps": [
 
-        { title: "basics to operators ", video: "https://www.youtube.com/embed/irqbmMNs2Bo?si=Tk0NQ5pvWjl3pANU", notes: "https://drive.google.com/file/d/15130B66x91qfDxxxbrsBrRnZDd8D1Eq1/view?usp=drivesdk", pdf: " " },
+        { title: "basics to operators ", video: "https://www.youtube.com/embed/irqbmMNs2Bo?si=Tk0NQ5pvWjl3pANU"},
         { title: "operators to loop", video: "https://www.youtube.com/embed/wYvrBXUfFfw?si=Bv_nxYOZxO4hO5LU", , pdf: "assets/pcc_notes2.pdf" },
         { title: "loops to call by value", video: "https://www.youtube.com/embed/6R0jNW6j2NA?si=Dcf0yeJs1t4gQb_Z", , pdf: "assets/pcc_notes2.pdf" },
         { title: "call by ref to struct", video: "https://www.youtube.com/embed/J464pe6ZTrE?si=2znU4KlwP7qS8KP3", , pdf: "assets/pcc_notes2.pdf" },
-                { title: "fabonacci series ", video: "https://www.youtube.com/embed/HjmwAeTaZv0?si=M87ju0gPl7BbDnoV", },
+                { title: "fabonacci series ", video: "https://www.youtube.com/embed/HjmwAeTaZv0?si=M87ju0gPl7BbDnoV" },
                         { title: "armstrong ", video: "https://www.youtube.com/embed/v5AG8L8XI5c?si=itbflRROme9QytX9"  },
                                 { title: "call by vaalue,reference", video: "https://www.youtube.com/embed/HEiPxjVR8CU?si=jB41DJUXAC5f84FP" },
-                                        { title: "linear search,binary search", video: "https://www.youtube.com/embed/C46QfTjVCNU?si=ET2rzDrgKPflC5nv" , },
-                                                { title: "actual formal parameters ", video: "https://www.youtube.com/embed/yTeMHEobXx8?si=8ZIkfAGwHPAI1VIQ" ,},
-                                                        { title: "employee problem", video: "https://www.youtube.com/embed/skPcyvMn1sQ?si=GKy1GqMUFTbbRFld" ,},
+                                        { title: "linear search,binary search", video: "https://www.youtube.com/embed/C46QfTjVCNU?si=ET2rzDrgKPflC5nv" },
+                                                { title: "actual formal parameters ", video: "https://www.youtube.com/embed/yTeMHEobXx8?si=8ZIkfAGwHPAI1VIQ" },
+                                                        { title: "employee problem", video: "https://www.youtube.com/embed/skPcyvMn1sQ?si=GKy1GqMUFTbbRFld" },
                                                                 { title: "factorial using recursion ", video: "https://www.youtube.com/embed/H2lBlb_ys9M?si=OrqiNMhq2hmaJxeP" },
-                                                                        { title: "question bank ", video: "", },
+                                                                        { title: "question bank  },
                                                                         {title: "palindrome",video:"https://www.youtube.com/embed/WUG2rN0cG9c?si=rC-7FwenV8TMZeic" },
                                                                         
     ],
@@ -137,19 +137,19 @@ const subjectData = {
         {title: " electric magnetic circuit",video:"https://www.youtube.com/embed/Epzddjp4Qt8?si=h5JqSS0JHb5j3nh9",notes:" https://drive.google.com/file/d/1EMTEkzuz6nhELAXLK7r3QczGqvyblYKG/view?usp=drivesdk"},
         {title: "losses of transformer",video:"https://www.youtube.com/embed/X5okb2NMJgM?si=Gx7FxqRsFKpZQSvW",notes:" https://drive.google.com/file/d/1EMTEkzuz6nhELAXLK7r3QczGqvyblYKG/view?usp=drivesdk" },
         {title:"open and short circuit tests" ,video:"https://www.youtube.com/embed/9hBmgdGjt1Y?si=H2ZjMMu0faFl_CfQ",notes: "https://drive.google.com/file/d/1EMTEkzuz6nhELAXLK7r3QczGqvyblYKG/view?usp=drivesdk"},
-        {title:"1 phase energy meter",video:"https://www.youtube.com/embed/22Up_Pyvg_c?si=2_4qymPDOIxQeKLP",notes:""},
+        {title:"1 phase energy meter",video:"https://www.youtube.com/embed/22Up_Pyvg_c?si=2_4qymPDOIxQeKLP"},
     ],     "previous papers":[ { title: "structure B",  notes: "https://drive.google.com/file/d/166MmkBuinyc4VPq2FvsnCbYsisIqjLn9/view?usp=drivesdk",video:"https://www.youtube.com/embed/_u1p7pauLXo?si=IFjcxZKp9Fqz0C5j"},
         
 
         { title:"structure A",notes:" https://drive.google.com/file/d/161mCgRkweM7rRRTp686PqzwTxEA-bRzl/view?usp=drivesdk",video:"https://www.youtube.com/embed/_u1p7pauLXo?si=IFjcxZKp9Fqz0C5j"},
         {title:"M2 AND PCC",notes:"https://drive.google.com/file/d/17MAN5Okn57GQVxPYOurUe0YGQrnefYrk/view?usp=drivesdk",video:"https://www.youtube.com/embed/_u1p7pauLXo?si=IFjcxZKp9Fqz0C5j"}],
 
-        "short notes":[{title: "physics",video:"https://www.youtube.com/embed/_ANLMEB-c5c?si=Z0-kYkeJveaAJfdN",notes: ""},
+        "short notes":[{title: "physics",video:"https://www.youtube.com/embed/_ANLMEB-c5c?si=Z0-kYkeJveaAJfdN"},
         {title: "biology",video:"https://www.youtube.com/embed/_ANLMEB-c5c?si=Z0-kYkeJveaAJfdN" ,notes: ""},
         {title: "m1",video:"https://www.youtube.com/embed/_ANLMEB-c5c?si=Z0-kYkeJveaAJfdN" ,notes: ""},
-        {title: "chemiistry",video:"https://www.youtube.com/embed/_ANLMEB-c5c?si=Z0-kYkeJveaAJfdN" ,notes: "https://drive.google.com/file/d/17SHnDWPkLM8e2frgbK8ugmYzib00YSNJ/view?usp=drivesdk"},
-        {title: "bee",video:"https://www.youtube.com/embed/_ANLMEB-c5c?si=Z0-kYkeJveaAJfdN" ,notes: ""},
-    {title: "m2",video:"https://www.youtube.com/embed/_ANLMEB-c5c?si=Z0-kYkeJveaAJfdN" ,notes: ""}],
+        {title: "chemiistry",video:"https://www.youtube.com/embed/_ANLMEB-c5c?si=Z0-kYkeJveaAJfdN" },
+        {title: "bee",video:"https://www.youtube.com/embed/_ANLMEB-c5c?si=Z0-kYkeJveaAJfdN" },
+    {title: "m2",video:"https://www.youtube.com/embed/_ANLMEB-c5c?si=Z0-kYkeJveaAJfdN" }],
 
 
 
