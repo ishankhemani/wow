@@ -59,11 +59,11 @@ const subjectData = {
         { title: "quantam mechanics", video: "https://www.youtube.com/embed/xm8Vl60I-qE?si=ol36mew4m0KOaovI", notes: "https://drive.google.com/file/d/1E3DfD69AYlV944rBSFhcNqsDjbHxONot/view?usp=drivesdk", pdf: "assets/physics_notes1.pdf" },
         { title: "de broglie matter waves,compton", video: "https://www.youtube.com/embed/ZPZOkpHhpsY?si=5K0i-gQx-ABO2BMY" , notes: "https://drive.google.com/file/d/1E3Z7vAn-wJy9bsdCQ2R9Ry9F8zWLnTDV/view?usp=drivesdk", pdf: "assets/physics_notes2.pdf" },
 {title: "de broglie hypothesis", video: "https://www.youtube.com/embed/MEWUUm3SAu4?si=An2nU3IGNBZx4dl-"  , notes: "https://drive.google.com/file/d/1E3Z7vAn-wJy9bsdCQ2R9Ry9F8zWLnTDV/view?usp=drivesdk", pdf: "assets/physics_notes2.pdf" },
-{title: "davvision germer experiment", video: "https://www.youtube.com/embed/hFzWmXTeH70?si=NlBXzM5HiUNoj44N" 
-      , notes: " https://drive.google.com/file/d/1Dzd9oJPswSwoVKguMN6EritMzN8bxOj6/view?usp=drivesdk", pdf: "assets/physics_notes2.pdf" },
+
+      
       {title: "michaelson interferometer" ,video: " https://www.youtube.com/embed/nzwHI6UUnuA?si=i62tu6IRoveSbP9e" ,notes:" https://drive.google.com/file/d/1E-_QPfoNqdqGCYFLEqKeJHZ7IdHsrb8v/view?usp=drivesdk"},
       {title : "newtons ring" ,video:" https://www.youtube.com/embed/_YFUxf80cGc?si=I6CvNZIghLKH0lwW" ,notes:"https://drive.google.com/file/d/1E-_QPfoNqdqGCYFLEqKeJHZ7IdHsrb8v/view?usp=drivesdk"},
-{ title: "rayliegh criteria",video: "https://www.youtube.com/embed/Un_B3OqO_fU?si=2Y2KarmlFjcMRqpD",notes: " https://drive.google.com/file/d/1E-_QPfoNqdqGCYFLEqKeJHZ7IdHsrb8v/view?usp=drivesdk"},
+{title: "rayliegh criteria",video: "https://www.youtube.com/embed/Un_B3OqO_fU?si=2Y2KarmlFjcMRqpD",notes: " https://drive.google.com/file/d/1E-_QPfoNqdqGCYFLEqKeJHZ7IdHsrb8v/view?usp=drivesdk"},
 {title: "resolving power ,its limits",video: "https://www.youtube.com/embed/Qsdi93l-zHM?si=-8lq2Td7nqmwCLDs" ,notes:" https://drive.google.com/file/d/1E-_QPfoNqdqGCYFLEqKeJHZ7IdHsrb8v/view?usp=drivesdk"},
 {title: "young's double slit" ,video: "https://www.youtube.com/embed/ypKuHA3fmtk?si=_XD9hKphdmy0SzBZ" ,notes:"https://drive.google.com/file/d/1E-_QPfoNqdqGCYFLEqKeJHZ7IdHsrb8v/view?usp=drivesdk"},
 {title:"gp thompson exp",video:"https://www.youtube.com/embed/ABuft-64iH0?si=d_xrx4E6GXpzyQOX",notes:"https://drive.google.com/file/d/1Dzd9oJPswSwoVKguMN6EritMzN8bxOj6/view?usp=drivesdk"}
@@ -124,41 +124,7 @@ const subjectData = {
                                                                         {title: "palindrome",video:"https://www.youtube.com/embed/WUG2rN0cG9c?si=rC-7FwenV8TMZeic" }
                                                                         
     ],
-    "bee" :[
-        { title: "UNIT 1 INTRODUCTION", video: "https://www.youtube.com/embed/dIE9X5gwPJo?si=UFnIwLp-6MOSseKs", notes: "https://drive.google.com/file/d/1E4UDSnRwDofR5mKIsbAEFcJt6gmiw7Jy/view?usp=drivesdk", pdf: " " },
-        { title: "electromagnetism", video: "https://www.youtube.com/embed/svd52GIjvDU?si=V0pDxs0Tx0tiW8OD", notes: "https://drive.google.com/file/d/1EHqwRBVWspse4PdT-4nn2T76qkmVI9QY/view?usp=drivesdk", pdf: "assets/pcc_notes2.pdf" },
-        { title: "ac", video: "https://www.youtube.com/embed/videoseries?si=EVEkARPu-19Xg0pY&amp;list=PLT3bOBUU3L9iC-ZcBJbQOOdt5uBsEkZJW", notes: "https://drive.google.com/file/d/1EMTEkzuz6nhELAXLK7r3QczGqvyblYKG/view?usp=drivesdk", pdf: "assets/pcc_notes2.pdf" },
-        { title: "ohm law,limitations", video: "https://www.youtube.com/embed/1JyD-KTj5Z0?si=dpldGqtYWVD_28R5" , notes: "https://drive.google.com/file/d/1E7deLnmqf6xu_cDnLS7C8hurgP93llEQ/view?usp=drivesdk", pdf: " " },
-        { title: "kvl,kcl", video:"https://www.youtube.com/embed/-BXwPX29QYY?si=vatScG-Ep-nQmlLb", notes: "https://drive.google.com/file/d/1EJTopf6O3QR-cOqe-vFjM6KmdpxXCUAf/view?usp=drivesdk", pdf: "assets/pcc_notes2.pdf" },
-        {title: "flmings rule",video:"https://www.youtube.com/embed/lGEUIit-TnU?si=XcyPKVbCslQN31BB",notes:"https://drive.google.com/file/d/1EHqwRBVWspse4PdT-4nn2T76qkmVI9QY/view?usp=drivesdk" },
-        {title: "mutual induction",video:"https://www.youtube.com/embed/FAAFmeQpYO8?si=AZMEtDn-opMZEO35",notes:" https://drive.google.com/file/d/1EHqwRBVWspse4PdT-4nn2T76qkmVI9QY/view?usp=drivesdk" },
-        {title: "numerical rms avg value ",video:"https://www.youtube.com/embed/WI8Sge3qFHo?si=3aHB3Rd2O8sloqB_" ,notes:" https://drive.google.com/file/d/1EMTEkzuz6nhELAXLK7r3QczGqvyblYKG/view?usp=drivesdk"},
-        {title:"statically and dynamically induced emf",video:"https://www.youtube.com/embed/CFjXdgMM244?si=D3VI1hLAV4fLwEkh",notes:" https://drive.google.com/file/d/1EHqwRBVWspse4PdT-4nn2T76qkmVI9QY/view?usp=drivesdk"},
-        {title: " electric magnetic circuit",video:"https://www.youtube.com/embed/Epzddjp4Qt8?si=h5JqSS0JHb5j3nh9",notes:" https://drive.google.com/file/d/1EMTEkzuz6nhELAXLK7r3QczGqvyblYKG/view?usp=drivesdk"},
-        {title: "losses of transformer",video:"https://www.youtube.com/embed/X5okb2NMJgM?si=Gx7FxqRsFKpZQSvW",notes:" https://drive.google.com/file/d/1EMTEkzuz6nhELAXLK7r3QczGqvyblYKG/view?usp=drivesdk" },
-        {title:"open and short circuit tests" ,video:"https://www.youtube.com/embed/9hBmgdGjt1Y?si=H2ZjMMu0faFl_CfQ",notes: "https://drive.google.com/file/d/1EMTEkzuz6nhELAXLK7r3QczGqvyblYKG/view?usp=drivesdk"},
-        {title:"1 phase energy meter",video:"https://www.youtube.com/embed/22Up_Pyvg_c?si=2_4qymPDOIxQeKLP"},
-    ],     "previous papers":[ { title: "structure B",  notes: "https://drive.google.com/file/d/166MmkBuinyc4VPq2FvsnCbYsisIqjLn9/view?usp=drivesdk",video:"https://www.youtube.com/embed/_u1p7pauLXo?si=IFjcxZKp9Fqz0C5j"},
-        
-
-        { title:"structure A",notes:" https://drive.google.com/file/d/161mCgRkweM7rRRTp686PqzwTxEA-bRzl/view?usp=drivesdk",video:"https://www.youtube.com/embed/_u1p7pauLXo?si=IFjcxZKp9Fqz0C5j"},
-        {title:"M2 AND PCC",notes:"https://drive.google.com/file/d/17MAN5Okn57GQVxPYOurUe0YGQrnefYrk/view?usp=drivesdk",video:"https://www.youtube.com/embed/_u1p7pauLXo?si=IFjcxZKp9Fqz0C5j"}],
-
-        "short notes":[{title: "physics",video:"https://www.youtube.com/embed/_ANLMEB-c5c?si=Z0-kYkeJveaAJfdN"},
-        {title: "biology",video:"https://www.youtube.com/embed/_ANLMEB-c5c?si=Z0-kYkeJveaAJfdN" ,notes: ""},
-        {title: "m1",video:"https://www.youtube.com/embed/_ANLMEB-c5c?si=Z0-kYkeJveaAJfdN" ,notes: ""},
-        {title: "chemiistry",video:"https://www.youtube.com/embed/_ANLMEB-c5c?si=Z0-kYkeJveaAJfdN" },
-        {title: "bee",video:"https://www.youtube.com/embed/_ANLMEB-c5c?si=Z0-kYkeJveaAJfdN" },
-    {title: "m2",video:"https://www.youtube.com/embed/_ANLMEB-c5c?si=Z0-kYkeJveaAJfdN" }],
-
-
-
-
-
-
-        
-};
-
+    
 const urlParams = new URLSearchParams(window.location.search);
 const subject = urlParams.get('subject');
 
